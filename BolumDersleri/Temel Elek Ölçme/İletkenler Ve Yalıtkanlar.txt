@@ -1,0 +1,24 @@
+İLETKENLER,YALITKANLAR VE YARI İLETKENLER
+
+      Elektrik enerjisinin iletim durumuna göre maddeler üçe ayrılır;
+Elektriği ileten tüm maddelere iletken. İletmeyenlere yalıtkan denir iletken ile yalıtkan arasında kalan maddelere de yarı iletken denir.
+    İLETKENLER
+   Metaller bazı Sıvı ve Gazlar iletkendirler Metaller Sıvı ve Gazlara göre daha iyi iletkenlerdir.
+   Metallere de kendi içinde iyi iletken ve kötü iletken olarak ayrılırlar.Bakır,altın ve gümüş son yörüngesinde bir
+   elektron olduğu için iyi iletkendirler fakat bakır tam saf olarak elde edilemediğinden altın ve gümüşe göre daha kötü iletkendir fakat
+   hem ucuz hem de bol olduğundan elektrik iletiminde bakır tercih edilir.Son yörüngelerinde iki ve üç elektron bulunanlar demir,alüminyum
+   daha kötü iletkenlerdir ama doğada ucuz ve bol olduğu için geçmiş yıllarda kablo olarak kullanılmıştır.Son yörüngede dörtden az elektron var ise iletken dörtden fazla elektron varsa yalıtkandır tam dört elektron var ise yarı iletken. İyi iletkenler(Bakır,Altın,Gümüş) Kötü İletken(Demir,Alüminyum).
+YALITKANLAR
+  Yalıtkanlar son yörüngelerinde sekiz tane elektron bulundurur bu yüzden elektron alışverişi gibi bir istekleri
+  yoktur doymuş yörünge sınıfında bulunurlar.Bu sebeblede elektriği iletmezler.Tahta,Kumaş,Plastik,Kağıt,Mika,Pamuk
+ YARI İLETKENLER 
+   İletkenlik Bakımından iletkenler ile yalıtkanlar arasında yer alır.Normal Şartlar Altında (NŞA) Yalıtkandırlar fakat ısı ışık magnetik 
+   etki altında bırakıldığında veya gerilim uygulandığında iletkenlik özelliği kazanırlar Fakat bu durum geçici olur dış etki kalkınca 
+   eski hallerine dönerler.Silisyum,Germenyum. 
+
+
+
+
+
+
+
