@@ -24,6 +24,6 @@ Pagedown : sayfanın en altına gider
 Pageup : Sayfanın en üstüne gider 
 Scroll lock : Kaydırma çubuğunu kitler 
 Shift-Del:Kalıcı Olarak Siler 
-Test 
+
 
 Yazının büyüklüğüne punto denir.
