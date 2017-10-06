@@ -13,5 +13,8 @@ Ctrl-H : Yeni sekme
 Ctrl-F : Bul 
 Ctrl-H : Değiştir
 Ctrl-J : indirilenler (google’da)
+Shift-F10:Sağ Tuş
+Shift-Del:Kalıcı Olarak Siler
+
 
 Yazının büyüklüğüne punto denir.
