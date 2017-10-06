@@ -13,8 +13,17 @@ Ctrl-H : Yeni sekme
 Ctrl-F : Bul 
 Ctrl-H : Değiştir
 Ctrl-J : indirilenler (google’da)
-Shift-F10:Sağ Tuş
-Shift-Del:Kalıcı Olarak Siler
+Shift-f10 : Farenin Sağ tuşu etkisinde
+Enter : Alt satıra geçer 
+Alt-f4 : kapat
+Shift-f10 : sağ tuş
+Shift-del : Kalıcı olarak siler 
+Home : Satır başı 
+End : satır sonu 
+Pagedown : sayfanın en altına gider
+Pageup : Sayfanın en üstüne gider 
+Scroll lock : Kaydırma çubuğunu kitler 
+
 
 
 Yazının büyüklüğüne punto denir.
