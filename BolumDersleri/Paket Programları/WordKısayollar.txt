@@ -9,7 +9,7 @@ Ctrl-C : Kopyalar
 Ctrl-X : Keser
 Ctrl-V : Yapıştırır
 Ctrl-N : Yeni belge (sekme) açar 
-Ctrl-H : Yeni sekme
+Ctrl-H : Yeni sekme (google'da Geçmişi açar)
 Ctrl-F : Bul 
 Ctrl-H : Değiştir
 Ctrl-J : indirilenler (google’da)
