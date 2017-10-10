@@ -1,0 +1,37 @@
+   BELLEK:İşlemcinin istediği bilgi,komutları hızlı bir şekilde işlemciye ulaştıran ve üzerindeki bilgileri tutan depolama birimleridir.
+İşlemciler hertürlü bilgi ve komutu bellek üzerinden alır.
+   BELLEĞİN YAPISI:Mikroişlemcilere benzer olarak hafıza çipleri ve kapasitör ve tansistörden oluşur.Genel olarak bilgisayar hafızalarında 
+bir transistör ve bir kapasitör bir hafıza hücresini oluşturur ve tek bir BİT bilgiyi temsil eder.
+   KAPASİTÖR:Bir BİT'lik bilgiyi tutar transistör ise bilginin okunmasını veya değiştirilmesini sağlar.
+   BELLEĞİN GÖREVİ:Teknik olarak bellek herhangi bir elektriksel verinin depolaması işidir.Görevi işlemcideki verinin işlenmesi sırasında 
+gerekli olan verileri geçici olarak veya kalıcı olarak tutmaktır.
+   ÇALIŞMA ÇEŞİTLERİNE GÖRE BELLEK ÇEŞİTLERİ:Bellek çeşitleri çalışma çeşitlerine göre RAM ve ROM olmak üzere ikiye ayrılır.
+   
+    RAM(RANDOM ACCES MEMORY)(RASGELE ERİŞİM BELLEK)
+     Ram elektrik kesildiğinde içersindeki veriler kaybolduğunda işlemcinin işleyeceği verilerin geçici olarak tutulduğu depolama birimidir.
+     Ramler birbirinden tamamen bağımsız hücrelerden oluşur bu hücrelerin her birinin kendine ait sayısal bir adresi vardır.
+     bu adresleme yöntemiyle Ramdeki herhangi bir bellek hücresine istenildiği anda diğerlerinden tamamen bağımsız olarak erişebilinir.
+     Rasgele Erişim Bellek adı buradan gelmektedir.Programlar ve veriler kullanımda olmadıkları zamanlarada yığın depolama alanlarında 
+     bulunur.Talep olduğunda programlar yığın depolama aygıtından Rama kopyalanır ve çalışır programların çalışabilmesi için öncellikle 
+     Rama aktarılması gerekir.Bu işlemin temel amacı CPU tarafından işlenecek verilere çok daha hızlı bir şekilde erişme ihtiyacıdır.
+     Bellek kapasitesi BYTE cinsinden ifade edilir.Ram 216mb,512mb,1gb,2gb,4gb modüller halinde satılır.
+     
+     BYTE 
+     8 Bitten oluşur Bit ise 0 veya 1 sayısal veri bilgisini saklayan en küçük hadıza birimidir.
+     1BYTE:8BİT
+     1KİLOBYTE(KB):1024 BYTE 
+     1MEGABYTE(MB):1024 KB
+     1GIGABYTE(GB):1024 MB
+     1TERABYTE(TB):1024 GB
+     
+     RAM YONGALARI 
+      Görsel olarak bellek yongaları genelde küçük yeşil bir PCB yüzeyine dizilmiş ufak siyah modüller halindedir.
+     SPD YONGASI
+      Rama ait erişim zamanı üretici firma üretim tarihi seri numarası çalışma hızı gibi bilgileri bulundurur.
+     YARI İLETKEN ÖZELLİKLERİNE GÖRE RAM BELLEK ÇEŞİTLERİ 
+      Ram bellekler yarı iletken özelliklerine göre Dinamik ve Statik olmak üzere ikiye ayrılır.
+     STATİK RAM (SRAM)
+      İçersindeki veriyi yenileme ihtiyac duymaz bu sayede Dinamik Rama göre daha hızlıdır statik Ramlar genellikle önbellek olarak
+      kullanılır ve maliyeti yüksektir.
+     Dinamik Ram 
+      Statik Ramdan en önemli farkı Statik Ramın periyodik olarak yenilenmesi gerekmezken Dinamik Raö için bu gereklidir.
