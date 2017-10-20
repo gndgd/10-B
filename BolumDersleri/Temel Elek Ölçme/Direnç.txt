@@ -1,0 +1,23 @@
+DİRENÇ
+     ''R'' simgesi ile gösterilir.Birimi ohm'dur.
+
+R : İletken Direnci	 
+1 : İletken Boyu 
+S : İletken Kesiti 
+K: Elektriğin Yapıldığı Malzemenin Öziletkenliği 
+q: İletkenin Yapıldığı  Malzemenin Özdirenci 
+
+DİRENÇ RENK KODLARI
+          Direnç değerleri aşşağıda gösterildiği gibi renklerle ifade edilir.
+
+Renk                              Değer                 Renk                      Değer                        Renk                                      Hata Payı 
+
+Siyah                              0                   Yeşil                          5                       Kahverengi                            %1
+ 
+Kahverengi                         1                   Mavi                           6                       Kırmızı                                   %2
+      
+Kırmızı                            2                    Mor                           7                        Altın                                       %5
+
+Turuncu                            3                    Gri                            8                        Gümüş                                   %10
+ 
+Sarı                               4                    Beyaz                          9
