@@ -32,3 +32,6 @@ v = Ani değer
 Vm = max değer
 f= frekans 
 t = zaman 
+
+İb = 5 sin(π/3+π/2) = 2,5 A
+ic = 8 sin(π/2-π/4)= 5,7 A
