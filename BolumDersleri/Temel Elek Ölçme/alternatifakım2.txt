@@ -35,3 +35,16 @@ t = zaman
 
 İb = 5 sin(π/3+π/2) = 2,5 A
 ic = 8 sin(π/2-π/4)= 5,7 A
+
+Maximum değer 
+Ani değerlerin en büyüğüdür Vm ve İm olarak gösterilir.
+Ortalama değer 
+bir saykıldaki ani değerlerin ortalamasıdır (1 saykıl 1n 1p)
+Vort = Vm X 0,636
+İort = İm X 0,636 
+olarak ifade edilir 
+Örnek maks değer 24V olan alternatif gerilimin ortalama değerini bulunuz 
+Vort = 24 X 0,636 = 15,264V 
+Etkin değer 
+V etkin değer demek
+V = 0,707 X Vm
