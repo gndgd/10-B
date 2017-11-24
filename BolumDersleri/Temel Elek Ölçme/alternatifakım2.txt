@@ -1,0 +1,34 @@
+Alternatif akım ve gerilimin değerleri 
+
+
+
+
+
+
+|
+|            o(vmax) 
+|                     
+|       /               
+|      /                 
+|     /                   
+|    /                     
+|   /                       
+|  /                         
+| /                           
+|/                             
+|----------------------------------------------------------------------------
+|                                                               
+|                                                             
+|                                                           
+|                                                         
+|                                                       
+|                                                      
+|                                                    
+|                                          o(-vmax) 
+
+Sinüsoidal eğri üzerindeki herhangi bir nokta ani değer olarak isimlendirilir küçük v harfi ile gösterilir 
+v = Vm sin(2πft)
+v = Ani değer
+Vm = max değer
+f= frekans 
+t = zaman 
