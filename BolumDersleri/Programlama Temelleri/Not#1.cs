@@ -12,6 +12,7 @@ namespace notcs
         static void Main(string[] args)
         {
            Console.WriteLine("Merhabalar"); // Yazdırmaya yarar 
+              Console.ReadLine();
         }
     }
 }
