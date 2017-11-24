@@ -1,0 +1,19 @@
+Alternatif Akım
+Zamanla yönü ve şiddetini değişen akıma alternatif akım denir. 
+Alternatif Akım ile Doğru Akım İle Arasındaki Farklar
+Elektrik enerjisi alternatif akım ve doğru akım olarak iki iki şekilde ürettilir. Günümüzde alternatif 
+akım doğru akımdan %90 daha fazla üretilmektedir. Bunu sebebi elektrik enerjisinin uzak mesafelere 
+ekonomik olarak iletilmesi için yüksek gelirimli alternatif akım kullanılır. Sanayide sabit hızlı yerlerde 
+alternatif akım motoru doğru akım motorundan daha verimli, daha sağlam daha ucuz ve bakımı daha 
+kolaydır. Doğru akımın  tercih edildiği yerler elektrikli taşıtlar tüm elektronik ve haberleşme  
+sistemleridir.
+Alternans
+Gerilim değeri Sıfırdan başlayıp pozitif yönde en yüksek değerine ulaştıktan sonra azalarak 
+Sıfıra düştüğü kısma pozitif alternans denir.
+Sıfırdan başlayıp negatif yönde maximum değerine ulaştıktan sonra tekrar sıfıra döndüğü kısmada negatif alternans denir.
+Periyot
+Bir saykılın tamamlanması içi geçen zamana periyot denir. Büyük T harfi ile gösterilir
+Frekans
+Saniyede saykıl sayısıdır birimi Hz(hertz) dir . Küçük f ile gösterilir. 
+F=1/fn
+
