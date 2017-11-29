@@ -1,0 +1,14 @@
+FAZ
+Faz açısı fazın derece veya radyanla verilen ölçüsüdür
+
+SIFIR FAZ
+Eğer bir sinüzoidal eğri t=0 anında sıfır başlangıç noktasından başlayıp maksimum
+değerine gidiyorsa sıfır fazlıdır denir.
+
+İLERİ FAZ
+Eğer bir sinüzoidal eğri t=0 anında sıfır başlangıç noktasından bir θ açısı kadar önce
+başlayıp pozitif maksimum değere doğru artıyorsa eğri ileri fazlıdır. 
+
+GERİ FAZ 
+Eğer bir sinüssel eğri t=0 anında sıfır başlangıç noktasından başlamayıp bir θ açısı
+kadar sonra başlıyorsa bu eğri geri fazlıdır.
